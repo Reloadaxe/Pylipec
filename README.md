@@ -17,7 +17,7 @@ python3 -m pip install -r requirements.txt
 
 ## Configuration
 
-You have to set your LinkedIn email and password, the path to your chrome driver and the path to the Google Chrome binary file
+You have to set your LinkedIn email and password, the path to your chrome driver and the path to the Google Chrome binary file in the 'conf.json' file
 
 ## Usage
 
