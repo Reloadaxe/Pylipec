@@ -1,0 +1,11 @@
+{
+    "parameters": {
+        "CHROMEDRIVER_PATH": "/path/to/chromedriver",
+        "CHROME_PATH": "/path/to/google/chrome/bin",
+        "N_PAGES": 1
+    },
+    "credentials": {
+        "LINUSERNAME": "abc@exemple.com",
+        "LINPWD": "password123"
+    }
+}
